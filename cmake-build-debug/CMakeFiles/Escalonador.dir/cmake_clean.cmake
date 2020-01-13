@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Escalonador.dir/PI.c.o"
   "CMakeFiles/Escalonador.dir/main.c.o"
+  "CMakeFiles/Escalonador.dir/ping_pong.c.o"
   "Escalonador"
   "Escalonador.pdb"
 )

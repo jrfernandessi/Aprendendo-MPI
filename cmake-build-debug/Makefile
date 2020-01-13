@@ -123,6 +123,33 @@ Escalonador/fast:
 	$(MAKE) -f CMakeFiles/Escalonador.dir/build.make CMakeFiles/Escalonador.dir/build
 .PHONY : Escalonador/fast
 
+PI.o: PI.c.o
+
+.PHONY : PI.o
+
+# target to build an object file
+PI.c.o:
+	$(MAKE) -f CMakeFiles/Escalonador.dir/build.make CMakeFiles/Escalonador.dir/PI.c.o
+.PHONY : PI.c.o
+
+PI.i: PI.c.i
+
+.PHONY : PI.i
+
+# target to preprocess a source file
+PI.c.i:
+	$(MAKE) -f CMakeFiles/Escalonador.dir/build.make CMakeFiles/Escalonador.dir/PI.c.i
+.PHONY : PI.c.i
+
+PI.s: PI.c.s
+
+.PHONY : PI.s
+
+# target to generate assembly for a file
+PI.c.s:
+	$(MAKE) -f CMakeFiles/Escalonador.dir/build.make CMakeFiles/Escalonador.dir/PI.c.s
+.PHONY : PI.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -150,6 +177,33 @@ main.c.s:
 	$(MAKE) -f CMakeFiles/Escalonador.dir/build.make CMakeFiles/Escalonador.dir/main.c.s
 .PHONY : main.c.s
 
+ping_pong.o: ping_pong.c.o
+
+.PHONY : ping_pong.o
+
+# target to build an object file
+ping_pong.c.o:
+	$(MAKE) -f CMakeFiles/Escalonador.dir/build.make CMakeFiles/Escalonador.dir/ping_pong.c.o
+.PHONY : ping_pong.c.o
+
+ping_pong.i: ping_pong.c.i
+
+.PHONY : ping_pong.i
+
+# target to preprocess a source file
+ping_pong.c.i:
+	$(MAKE) -f CMakeFiles/Escalonador.dir/build.make CMakeFiles/Escalonador.dir/ping_pong.c.i
+.PHONY : ping_pong.c.i
+
+ping_pong.s: ping_pong.c.s
+
+.PHONY : ping_pong.s
+
+# target to generate assembly for a file
+ping_pong.c.s:
+	$(MAKE) -f CMakeFiles/Escalonador.dir/build.make CMakeFiles/Escalonador.dir/ping_pong.c.s
+.PHONY : ping_pong.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -159,9 +213,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Escalonador"
+	@echo "... PI.o"
+	@echo "... PI.i"
+	@echo "... PI.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... ping_pong.o"
+	@echo "... ping_pong.i"
+	@echo "... ping_pong.s"
 .PHONY : help
 
 

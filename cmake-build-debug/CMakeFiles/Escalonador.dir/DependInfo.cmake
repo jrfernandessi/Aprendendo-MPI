@@ -4,7 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "/Users/Junior/git/Learning-MPI/PI.c" "/Users/Junior/git/Learning-MPI/cmake-build-debug/CMakeFiles/Escalonador.dir/PI.c.o"
   "/Users/Junior/git/Learning-MPI/main.c" "/Users/Junior/git/Learning-MPI/cmake-build-debug/CMakeFiles/Escalonador.dir/main.c.o"
+  "/Users/Junior/git/Learning-MPI/ping_pong.c" "/Users/Junior/git/Learning-MPI/cmake-build-debug/CMakeFiles/Escalonador.dir/ping_pong.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 
