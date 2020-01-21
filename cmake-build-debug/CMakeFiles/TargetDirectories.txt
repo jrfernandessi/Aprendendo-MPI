@@ -1,3 +1,3 @@
-/home/junior/git/Escalonador/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/junior/git/Escalonador/cmake-build-debug/CMakeFiles/Escalonador.dir
-/home/junior/git/Escalonador/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Junior/git/Learning-MPI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Junior/git/Learning-MPI/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Junior/git/Learning-MPI/cmake-build-debug/CMakeFiles/Escalonador.dir

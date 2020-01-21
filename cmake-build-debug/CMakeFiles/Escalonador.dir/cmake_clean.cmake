@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Escalonador.dir/main.c.o"
-  "Escalonador.pdb"
   "Escalonador"
+  "Escalonador.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
