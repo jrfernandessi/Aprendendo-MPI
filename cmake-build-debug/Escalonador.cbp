@@ -78,7 +78,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/Junior/git/Learning-MPI/PI.c">
+			<Option target="Escalonador"/>
+		</Unit>
 		<Unit filename="/Users/Junior/git/Learning-MPI/main.c">
+			<Option target="Escalonador"/>
+		</Unit>
+		<Unit filename="/Users/Junior/git/Learning-MPI/ping_pong.c">
 			<Option target="Escalonador"/>
 		</Unit>
 		<Unit filename="/Users/Junior/git/Learning-MPI/CMakeLists.txt">
