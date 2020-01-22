@@ -1,1 +1,1 @@
-/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Escalonador.dir/main.c.o CMakeFiles/Escalonador.dir/PI.c.o CMakeFiles/Escalonador.dir/ping_pong.c.o  -o Escalonador 
+/usr/bin/cc -g   CMakeFiles/Escalonador.dir/send_receive.c.o CMakeFiles/Escalonador.dir/PI.c.o CMakeFiles/Escalonador.dir/ping_pong.c.o  -o Escalonador 
